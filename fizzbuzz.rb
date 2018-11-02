@@ -1,4 +1,4 @@
 def fizzbuzz
 if fizz_3 == fizzbuzz(3)
-  puts "Fizz"
+  return "Fizz"
 end
