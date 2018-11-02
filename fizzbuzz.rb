@@ -3,10 +3,10 @@ if int % 3 == 0
   return "Fizz"
  end
 if int % 5 == 0
-   "Buzz"
+  return "Buzz"
  end
 if int % 3 && int % 5 == 0
-   "FizzBuzz"
+  return "FizzBuzz"
  end
 else
    nil
