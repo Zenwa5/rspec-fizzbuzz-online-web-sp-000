@@ -1,4 +1,4 @@
 def fizzbuzz
-if 3 == 3/3
+if fizz_3 == fizzbuzz(3)
   puts "Fizz"
 end
