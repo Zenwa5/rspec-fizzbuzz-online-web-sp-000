@@ -10,5 +10,4 @@ elsif int % 3 && int % 5 == 0
  end
 else
    nil
- end
 end
